@@ -1,5 +1,6 @@
-{
+{ 
   "name": "vite-react-typescript-starter",
+  "homepage": "https://giabaod1nh_spec.github.io/Signature_Attack_Dettection", 
   "private": true,
   "version": "0.0.0",
   "type": "module",
